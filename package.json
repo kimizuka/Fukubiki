@@ -22,9 +22,9 @@
   "author": "kimizuka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kimizuka/sampling-without-replacement/issues"
+    "url": "https://github.com/kimizuka/fukubiki/issues"
   },
-  "homepage": "https://github.com/kimizuka/sampling-without-replacement#readme",
+  "homepage": "https://github.com/kimizuka/fukubiki#readme",
   "files": [
     "dist"
   ],
