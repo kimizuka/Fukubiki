@@ -58,5 +58,5 @@ fukubiki.select(); // => 2
 fukubiki.select(); // => 1
 fukubiki.select(); // => 1
 fukubiki.select(); // => 0
-fukubiki.select(); // => 1
+fukubiki.select(); // => 2
 ```
