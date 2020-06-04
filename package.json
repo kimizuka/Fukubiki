@@ -1,0 +1,38 @@
+{
+  "name": "fukubiki",
+  "version": "1.0.0",
+  "description": "sampling without replacement.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "jest",
+    "init": "jest --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimizuka/fukubiki.git"
+  },
+  "keywords": [
+    "fukubiki",
+    "sampling",
+    "without",
+    "replacement"
+  ],
+  "author": "kimizuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimizuka/sampling-without-replacement/issues"
+  },
+  "homepage": "https://github.com/kimizuka/sampling-without-replacement#readme",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.3"
+  }
+}
